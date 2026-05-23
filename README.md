@@ -1,7 +1,7 @@
 # ESTRELLA
 The website provides final products for the NSF ESTRELLA project (NSF Grant No. 1949230). 
 
-## [6th-grade lessons for visualizing fraction operations using Python and digital videos](https://github.com/pattichis/fractions)
+### [6th-grade lessons for visualizing fraction operations using Python and digital videos](https://github.com/pattichis/fractions)
 The final project includes the creation of a video for visualizing multiplying and dividing fractions.
 
 # 7th-grade lessons for visualizing linear relationships using Python and digital videos
