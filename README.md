@@ -1,7 +1,10 @@
 # ESTRELLA
 The website provides final products for the NSF ESTRELLA project (NSF Grant No. 1949230). 
 
-![Alt text here](https://ivpcl.unm.edu/images/Pattichis.jpg)
+<img src="https://ivpcl.unm.edu/images/Pattichis.jpg" width="300" alt="Alt text">
+*Figure 1: This is your simple image caption.*
+
+![Alt text here]()
 *Figure 1: This is your simple image caption.*
 
 ### [6th-grade lessons for visualizing fraction operations using Python and digital videos](https://github.com/pattichis/fractions)
