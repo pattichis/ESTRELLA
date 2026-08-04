@@ -4,13 +4,13 @@ The website provides final products for the NSF ESTRELLA project (NSF Grant No. 
 ### [Visualize fraction operations using Python and digital videos (6th grade)](https://github.com/pattichis/fractions)
 The final project includes the creation of a video for visualizing multiplying and dividing fractions.
 
-### [Visualize linear relationships using Python and digital videos (7th grade)](https://github.com/pattichis/GraphSpeeds2/blob/main/README.md)
+### [Lessons: Visualize linear relationships using Python and digital videos (7th grade)](https://github.com/pattichis/GraphSpeeds2/blob/main/README.md)
 The final project includes making a race video with realistic speeds using custom characters. 
 
-### [Visualize line geometry using Python](https://github.com/pattichis/lineart)
+### [Lessons: Visualize line geometry using Python](https://github.com/pattichis/lineart)
 The final project includes building a house using lines and points.
 
-### [Visualize exponential functions using Python and videos: Make a flower and a face using exponentials](https://github.com/pattichis/graphfuns2)
+### [Lessons: Visualize exponential functions using Python and videos: Make a flower and a face using exponentials](https://github.com/pattichis/graphfuns2)
 The activities include two projects. The first project requires students to make a flower using exponential functions.
 The second project requires students to make a face using exponential functions.
 
