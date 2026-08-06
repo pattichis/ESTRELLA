@@ -7,7 +7,7 @@ The final project includes creating a video to visualize multiplying and dividin
 ### [Lessons: Visualize linear relationships using Python and digital videos (7th grade)](https://github.com/pattichis/GraphSpeeds2/blob/main/README.md)
 The final project includes making a race video with realistic speeds using custom characters. 
 
-### [Lessons: Visualize line geometry using Python](https://github.com/pattichis/lineart)
+### [Lessons: Visualize line geometry using Python (9th or 10th grade)](https://github.com/pattichis/lineart)
 The final project includes building a house using lines and points.
 
 ### [Lessons: Visualize exponential functions using Python and videos: Make a flower and a face using exponentials (9th grade)](https://github.com/pattichis/graphfuns2)
