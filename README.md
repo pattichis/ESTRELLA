@@ -28,7 +28,7 @@ The second project requires students to make a face using exponential functions.
 
 ## Contact information
 If you have any questions or need any more information about this project,
-feel free to contact any of the Co-PIs of the project:
+feel free to contact any of the Co-PIs of the project!
 
 Marios S. Pattichis was the lead PI for the project.
 He is a Professor in the Department of Electrical and Computer Engineering at the University of New Mexico.
