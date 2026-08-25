@@ -42,8 +42,7 @@ Carlos L&oacute;pez-Leiva was a Co-PI for the project.
 He is a Professor Language, Literacy, and Sociocultural Studies at the University of New Mexico.
 He can be reached at [callopez@unm.edum](mailto:callopez@unm.edu).
 
-## Project website
-[UNM website](https://estrella.unm.edu).
+The UNM project website is at [estrella.unm.edu](https://estrella.unm.edu).
 
 
 ## Acknowledgement
