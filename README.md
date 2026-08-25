@@ -18,6 +18,7 @@ The final project includes building a house using lines and points.
 
 [Student project video](https://github.com/user-attachments/assets/77ab2606-258c-41ca-822f-5f0253858178)
 
+[Student project video](https://github.com/user-attachments/assets/2c87c9ee-5c64-46e2-a1f6-0cc59ab6ed20)
 
 ### [Lessons: Visualize exponential functions using Python and videos: Make a flower and a face using exponentials (9th grade)](https://github.com/pattichis/graphfuns2)
 The activities include two projects. The first project requires students to make a flower using exponential functions.
