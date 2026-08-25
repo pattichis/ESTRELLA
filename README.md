@@ -24,7 +24,7 @@ The second project requires students to make a face using exponential functions.
 
 [Flower video 2](https://github.com/user-attachments/assets/96c883ec-0264-41fb-afd8-c29caa687812)
 
-
+[Cls 3, G3](https://github.com/user-attachments/assets/85cbe3b2-e85c-40eb-9481-a6494718c329)
 
 ## Contact information
 If you have any questions or need any more information about this project,
