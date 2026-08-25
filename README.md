@@ -4,6 +4,8 @@ The website provides final products for the NSF ESTRELLA project (NSF Grant No. 
 ### [Lessons: Visualize fraction operations using Python and digital videos (6th grade)](https://github.com/pattichis/fractions)
 The final project includes creating a video to visualize multiplying and dividing fractions.
 
+The following is an example produced by the students. Unlike the other projects below, in this example the students added their audio and some additional frames. The original audio has been replaced by an AI generated audio.
+
 [Group Project 2 (Exemplar)](https://github.com/user-attachments/assets/4e29310d-8dac-4f86-8e9b-7450f4188a1e)
 
 ### [Lessons: Visualize linear relationships using Python and digital videos (7th grade)](https://github.com/pattichis/GraphSpeeds2/blob/main/README.md)
