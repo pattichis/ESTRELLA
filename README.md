@@ -56,7 +56,7 @@ She can be reached at [sylvia.celedon@austin.utexas.edu](mailto:sylvia.celedon@a
 
 Carlos L&oacute;pez-Leiva was a Co-PI for the project.
 He is a Professor in the Department of Language, Literacy, and Sociocultural Studies at the University of New Mexico.
-He can be reached at [callopez@unm.edum](mailto:callopez@unm.edu).
+He can be reached at [callopez@unm.edu](mailto:callopez@unm.edu).
 
 The UNM project website is at [estrella.unm.edu](https://estrella.unm.edu).
 
