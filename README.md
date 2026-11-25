@@ -1,3 +1,4 @@
+# [Switch to Spanish](README_es.md)
 # ESTRELLA
 The website provides final products for the NSF ESTRELLA project (NSF Grant No. 1949230). 
 
