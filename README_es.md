@@ -1,3 +1,4 @@
+# [Switch to English](README.md)
 # ESTRELLA
 Este sitio web presenta los productos finales del proyecto ESTRELLA de la NSF (subvención NSF n.º 1949230). 
 
